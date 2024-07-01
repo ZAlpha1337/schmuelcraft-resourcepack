@@ -33,6 +33,9 @@ h4{
 .askew {
 	float: right;
 }
+.smidge-scoot{
+	text-align: center;
+}
 .altcolor_dark-to-light {
 	color: mediumseagreen;
 }
