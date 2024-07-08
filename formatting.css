@@ -1,15 +1,29 @@
+/*this file is not worked on often, but I will resolve some text issues eventually*/
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: large;
+	font-size: 150%;
 	margin-left: 5em;
 	padding: 1em;
-	width: 1080x;
+	width: 4096x;
 	background-attachment: fixed;
 	background-size: cover;
-	background-image: url(images/4248dc2842854731abc80bee7ecb1346.png);
-	background-color:black;
+	background-image: url(images/20735c0ebd969fbce59a88712863da7f.gif);
+	background-color:rgb(17, 227, 255);
 	font-size: larger;
-	color:cyan
+	color:#150578;
+}
+p {
+	text-shadow: 2px 2px 2px blue;
+}
+blockquote {
+	color: black;
+	text-shadow: 1px 2px blue;
+}
+ul {
+	text-shadow: 1px 2px blue;
+}
+li {
+	text-shadow: 1px 2px blue;
 }
 h1{
 	margin-top: auto;
@@ -18,20 +32,21 @@ h1{
 }
 h2{
 	margin-top: auto;
-	color: violet;
+	color: #1A8FE3;
 	font-size: 200%;
 }
 h3{
 	margin-top: auto;
-	color: rgb(69, 143, 255);
+	color: teal;
 	font-size: 169%;
-}
-h4{
-	margin-top: auto;
-	color: darkcyan;
+	text-shadow: 1px 2px 1px cyan;
 }
 .askew {
 	float: right;
+}
+.glowupaskew {
+	text-shadow: #F3CA40;
+	float: right
 }
 .smidge-scoot{
 	text-align: center;
@@ -41,9 +56,6 @@ h4{
 }
 .altcolor_light-to-dark {
 	color: blueviolet;
-}
-.purewhite{
-	color: rgb(255, 255, 255);
 }
 a:link {
 	color: chartreuse;
