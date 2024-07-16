@@ -2,7 +2,8 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 150%;
-	margin-left: 5em;
+	margin-left: 1em;
+	margin-right: .025em;
 	padding: 1em;
 	width: 4096x;
 	background-attachment: fixed;
@@ -13,10 +14,11 @@ body {
 	color:#150578;
 }
 p {
-	text-shadow: 2px 2px 2px blue;
+	color: #0011FF;
+	text-shadow: 1px 3px 2px #0081A7;
 }
 blockquote {
-	color: black;
+	color: #5F00BA;
 	text-shadow: 1px 2px blue;
 }
 ul {
