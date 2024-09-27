@@ -14,8 +14,12 @@ body {
 	color:#150578;
 }
 p {
-	color: #0011FF;
+	color: #3066BE;
 	text-shadow: 1px 3px 2px #0081A7;
+}
+li{
+	color: #3066BE;
+	text-shadow: 1px 3px 3px #090C9B;
 }
 blockquote {
 	color: #5F00BA;
