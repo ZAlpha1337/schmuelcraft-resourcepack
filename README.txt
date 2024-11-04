@@ -13,3 +13,8 @@ updated the background picture AGAIN! yes, i wanted to make the text more readab
 
 schmuel's voice has grown a little deep since the time i last met him, but that does not matter, i can still add updated sounds to this resource pack
 +updated the specs on where you can play the game on
+
+
+11/3/2024
+
+minor tweaks to the end texts and splashes
