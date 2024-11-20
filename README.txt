@@ -18,3 +18,9 @@ schmuel's voice has grown a little deep since the time i last met him, but that 
 11/3/2024
 
 minor tweaks to the end texts and splashes
+
+11/19/2024
+
+updates on the background, which adds color update to general text and quotes
+
+speaking of quotes, there are famous quotes from schmuel himself now posted on the website itself!
