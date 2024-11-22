@@ -6,6 +6,7 @@ body {
 	margin-right: .025em;
 	padding: 1em;
 	background-attachment: fixed;
+	background-color: black;
 	background-size: cover;
 	background-image: url(/images/e58dc140e157a4282a02b65af048c6b8.gif);
 	width: 4096x;
