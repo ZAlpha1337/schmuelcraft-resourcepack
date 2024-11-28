@@ -24,3 +24,5 @@ minor tweaks to the end texts and splashes
 updates on the background, which adds color update to general text and quotes
 
 speaking of quotes, there are famous quotes from schmuel himself now posted on the website itself!
+
+converted webp files to PNG/JPEG files for older OS support
