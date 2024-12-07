@@ -21,7 +21,7 @@ minor tweaks to the end texts and splashes
 
 11/19/2024
 
-updates on the background, which adds color update to general text and quotes
+updates on the background, which adds color update to general text and quotes (schmuel's famous quotes)
 
 speaking of quotes, there are famous quotes from schmuel himself now posted on the website itself!
 
