@@ -26,3 +26,11 @@ updates on the background, which adds color update to general text and quotes
 speaking of quotes, there are famous quotes from schmuel himself now posted on the website itself!
 
 converted webp files to PNG/JPEG files for older OS support
+
+12/7/2024
+
+fixed the schmuel art picture for people to have, though it has low probability
+
+added an about.html portion to the whole website, so you guys can see who i am and what i somewhat do
+
+added a "corrupted" portion of the text
