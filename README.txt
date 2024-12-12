@@ -35,6 +35,8 @@ added an about.html portion to the whole website, so you guys can see who i am a
 
 added a "corrupted" portion of the text
 
-12/11/2024 IN THE WORKS
+12/11/2024
 
-Fixed a bigged image of my main computer for a showcase on the about.html file
+added the specs of my computers
+
+for some odd reason, the picture of my current laptop doesn't wanna show on the website. so i decided to embed it on the name of the computer itself. though the image may show complete innacuracy, though the specs on that computer are 100% real
