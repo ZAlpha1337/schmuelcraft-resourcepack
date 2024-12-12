@@ -34,3 +34,7 @@ fixed the schmuel art picture for people to have, though it has low probability
 added an about.html portion to the whole website, so you guys can see who i am and what i somewhat do
 
 added a "corrupted" portion of the text
+
+12/11/2024 IN THE WORKS
+
+Fixed a bigged image of my main computer for a showcase on the about.html file
