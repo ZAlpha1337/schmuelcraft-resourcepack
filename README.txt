@@ -12,8 +12,8 @@ updated the background picture AGAIN! yes, i wanted to make the text more readab
 9/27/2024
 
 schmuel's voice has grown a little deep since the time i last met him, but that does not matter, i can still add updated sounds to this resource pack
-+updated the specs on where you can play the game on
 
++updated the specs on where you can play the game on
 
 11/3/2024
 
