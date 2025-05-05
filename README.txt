@@ -43,3 +43,5 @@ removed the Dell Dimension C521 PC plus its specs. i'm planning to throw that in
 changed the background and text color in proportion for asthetics to the website to make it more appealing
 
 updated the "ZAlpha main Minecraft skin" due to sudden hard drive corruption
+
+^ all minor tweaks since last update
