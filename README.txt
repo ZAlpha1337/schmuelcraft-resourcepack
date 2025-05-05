@@ -44,4 +44,6 @@ changed the background and text color in proportion for asthetics to the website
 
 updated the "ZAlpha main Minecraft skin" due to sudden hard drive corruption
 
+compressed and moved .GIF files to another directory so it can be able to be uploaded properly
+
 ^ all minor tweaks since last update
