@@ -46,4 +46,6 @@ updated the "ZAlpha main Minecraft skin" due to sudden hard drive corruption
 
 compressed and moved .GIF files to another directory so it can be able to be uploaded properly
 
+updated the description about the website
+
 ^ all minor tweaks since last update
