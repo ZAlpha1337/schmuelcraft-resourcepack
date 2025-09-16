@@ -49,3 +49,7 @@ compressed and moved .GIF files to another directory so it can be able to be upl
 updated the description about the website
 
 ^ all minor tweaks since last update
+
+
+9/16/2025
+redone the text indicating about the drama of an ex friend by the name of David D Pooper Streaker
