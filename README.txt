@@ -53,3 +53,8 @@ updated the description about the website
 
 9/16/2025
 redone the text indicating about the drama of an ex friend by the name of David D Pooper Streaker
+
+2/11/2026
+readded David's name into the scheme of things when Schmuel himself meets with David
+
+finished redoing the entire structure, plus updating the cosmetics in some parts of the site
