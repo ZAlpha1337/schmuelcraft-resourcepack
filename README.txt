@@ -58,6 +58,6 @@ redone the text indicating about the drama of an ex friend by the name of David 
 readded David's name into the scheme of things when Schmuel himself meets with David
 
 10/9/2026
-finally added some audio files showcasing what is added, plus other things like updating the diamond block, and updating the intro splash screen
+finally added some audio files showcasing what is added, plus other things like updating the diamond block, and updating the intro splash screen - also doing a lot of tweaking of timing on explosion3.ogg because the timing wouldn't stay in sync
 
 finished redoing the entire structure, plus updating the cosmetics in some parts of the site
