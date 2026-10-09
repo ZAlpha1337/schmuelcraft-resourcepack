@@ -57,4 +57,7 @@ redone the text indicating about the drama of an ex friend by the name of David 
 2/11/2026
 readded David's name into the scheme of things when Schmuel himself meets with David
 
+10/9/2026
+finally added some audio files showcasing what is added, plus other things like updating the diamond block, and updating the intro splash screen
+
 finished redoing the entire structure, plus updating the cosmetics in some parts of the site
